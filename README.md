@@ -1,4 +1,5 @@
-
+# Project Name
+Energy-Latency Sponge Attack on Wearable AI
 
 
 # Sponge-attack
@@ -6,3 +7,23 @@ A Sponge Attack is an adversarial technique that exploits resource-intensive ope
 
 # Defense in wearable
 Hashing in watermarking for ML models ensures the secure embedding and verification of ownership marks by generating unique, tamper-resistant signatures for model integrity and provenance.
+
+
+
+---
+
+## Features
+
+- Feature 1: Brief description.
+- Feature 2: Brief description.
+- Feature 3: Brief description.
+
+---
+
+## Installation
+
+Follow these steps to set up the project on your local machine:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/username/project-name.git
