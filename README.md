@@ -13,7 +13,6 @@ Hashing in watermarking for ML models ensures the secure embedding and verificat
 
 You can downkload the Human Activity Recognition Using Smartphones from this link [UCI HAR Dataset](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)
 ---
-<a href="https://example.com/dataset-link" target="_blank">Open Dataset</a>
 ## Features
 
 - Feature 1: Brief description.
