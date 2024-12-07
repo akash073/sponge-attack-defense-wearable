@@ -8,16 +8,17 @@ A Sponge Attack is an adversarial technique that exploits resource-intensive ope
 # Defense in wearable
 Hashing in watermarking for ML models ensures the secure embedding and verification of ownership marks by generating unique, tamper-resistant signatures for model integrity and provenance.
 
+# Simulation Device
+We simulate the experiment on the Ordoid N2. The Odroid N2 is a high-performance single-board computer (SBC) developed by Hardkernel, designed for applications requiring powerful processing capabilities in a compact form. Here are some key features and highlights:
 
-## Dataset
+# Dataset
 
 You can downkload the Human Activity Recognition Using Smartphones from this link [UCI HAR Dataset](https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones)
 ---
 ## Features
 
-- Feature 1: Brief description.
-- Feature 2: Brief description.
-- Feature 3: Brief description.
+- Attack: Overall execution of the sponge model development.
+- Defence: Defense against the sponge attack.
 
 ---
 
@@ -27,4 +28,4 @@ Follow these steps to set up the project on your local machine:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/username/project-name.git
+   git clone [url]
