@@ -18,7 +18,7 @@ You can downkload the Human Activity Recognition Using Smartphones from this lin
 ## Features
 
 - Attack: Overall execution of the sponge model development.
-- Defence: Defense against the sponge attack.
+<!--- - Defence: Defense against the sponge attack. --->
 
 ---
 
