@@ -33,3 +33,8 @@ Follow these steps to set up the project on your local machine:
 2. **Install requirements**
    ```bash
    pip install -r requirements.txt
+
+3. **Change the root folder**
+   ```bash
+   root = [your root directory of the dataset]
+4. **Run the project in jupyter notebook**
